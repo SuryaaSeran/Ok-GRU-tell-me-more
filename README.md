@@ -15,4 +15,5 @@
 + nltk
 + pandas
 + numpy
++ gTTS
 
